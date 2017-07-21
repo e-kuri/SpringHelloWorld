@@ -1,1 +1,6 @@
 *.war
+/nbproject/private/
+/build/
+/dist/
+nbproject/
+build.xml
